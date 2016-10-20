@@ -1,3 +1,3 @@
 <?php
-echo "testing";
+echo $_GET['hub_challenge'];
 ?>
